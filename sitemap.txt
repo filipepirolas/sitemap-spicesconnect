@@ -1,2 +1,3 @@
-www.spicesconnect.com
-www.en.spicesconnect.com
+spicesconnect.com
+
+en.spicesconnect.com
